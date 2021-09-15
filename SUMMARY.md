@@ -1,5 +1,9 @@
 # Table of contents
 
 * [Unity x MRTK](README.md)
-* [Install Unity](install-unity.md)
+
+## Unity x MRTK
+
+* [Unity](unity-x-mrtk/install-unity.md)
+* [MRTK](unity-x-mrtk/mrtk.md)
 

@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Unity x MRTK](README.md)
+* [Install Unity](install-unity.md)
 

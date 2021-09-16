@@ -1,5 +1,5 @@
 ---
-description: 'https://aka.ms/MRFeatureTool'
+description: Using openXR & MRTK 2.7.2(latest)
 ---
 
 # Windows
@@ -8,11 +8,13 @@ description: 'https://aka.ms/MRFeatureTool'
 
 {% embed url="https://aka.ms/MRFeatureTool" %}
 
-###  
+### 2. Choose unity project
 
-![](../../../.gitbook/assets/mrtkfeature.png)
+### 3. Select features
 
+![Features in Mixed Reality Toolkit](../../../.gitbook/assets/mrtkfeature.png)
 
+### \(TODO\) OpenXR Plugin screenshot
 
 
 
